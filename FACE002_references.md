@@ -1,8 +1,5 @@
-# <center> Using Generative Adversarial Networks to Study Familiarity Effects on Face Memory </center>
-####  <center> Magdalena Lazarczyk, Hantao Liu, Walter Colombo, Christoph Teufel and Victor Navarro </center>
-
 ## Reference list
-<div style="line-height: 2;">
+<div style="line-height: 1.5;">
 <blockquote style="margin-left: 3em; text-indent: -3em; background-color: transparent;  border-left: none; padding-left: 0;">
 Armann, R. G. M., Jenkins, R., & Burton, A. M. (2016). A familiarity disadvantage for remembering specific images of faces. Journal of Experimental Psychology: Human Perception and Performance, 42(4), 571–580. https://doi.org/10.1037/xhp0000174
 </blockquote>
